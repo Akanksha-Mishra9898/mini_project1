@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://cdn.vectorstock.com/i/preview-1x/56/88/blue-music-background-with-notes-vector-9215688.jpg);
+    background-size: cover;
+}
+.sticky-nav{
+    position: sticky;
+    top: 0;
+}
+input{
+    font-size: 20px;
+
+}
+a{
+    color: white;
+    font-size: 25px;
+    margin-left: 80px;
+    text-decoration: none;
+}
